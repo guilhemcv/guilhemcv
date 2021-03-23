@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=guilhemcv)
 
-I'm Guilhem, a Future Web Developer 🚀 from Nantes, France. Currently, I'm studying HTML/CSS/Javascript and i'm going to integrate Wild Code School, Nantes in September.
+My name is Guilhem and i am a Future Web Developer 🚀 from Nantes, France. Currently, I'm studying HTML/CSS/Javascript and i'm going to integrate Wild Code School, Nantes in September.
 
 <h4>To join me :</h4>
 
