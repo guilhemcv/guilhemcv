@@ -4,13 +4,10 @@
 
 I'm Guilhem, a Future Web Developer 🚀 from Nantes, France. Currently, I'm studying HTML/CSS/Javascript and i'm going to integrate Wild Code School, Nantes in September.
 
-To join me :
+<h4>To join me :</h4>
 
-mail : mailto:guilhemcvdev@outlook.com
+mail : guilhemcvdev@outlook.com
 
 <h4>My GitHub Stats:</h4>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=guilhemcv&count_private=true&show_icons=true&theme=cobalt" alt="guilhemcv" />
-</p>
 
 ![Metrics](https://metrics.lecoq.io/guilhemcv)
