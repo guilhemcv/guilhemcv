@@ -7,4 +7,5 @@ My name is Guilhem and i am a Future Web Developer 🚀 from Nantes, France. Cur
 <h4>To join me :</h4>
 
 mail : guilhemcvdev@outlook.com
+
 linkedin : https://www.linkedin.com/in/guilhem-seyvet/
