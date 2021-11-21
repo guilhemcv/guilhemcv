@@ -13,7 +13,7 @@ I'm currently a student at Wild Code School, Nantes and I am specializing in Jav
 [![Linkedin Badge](https://img.shields.io/badge/-guilhem_seyvet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhem-seyvet/)](https://www.linkedin.com/in/guilhem-seyvet/)
 [![Gmail Badge](https://img.shields.io/badge/-guilhem.seyvet@hotmail.fr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhem.seyvet@hotmail.fr)](mailto:guilhem.seyvet@hotmail.fr) 
 
-<br><br><br><br><br><br>
+<br><br>
 - 👨‍💻 All of my projects are available at [guilhemcv.github.io](guilhemcv.github.io)
 
 - 📫 How to reach me **guilhem.seyvet@hotmail.fr**
