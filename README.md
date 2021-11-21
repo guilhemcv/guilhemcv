@@ -1,4 +1,4 @@
-<img align="right" src="https://storage.googleapis.com/www-paredro-com/uploads/2015/08/dise%C3%B1adores-3.gif" width="530" height="450">
+<img align="right" src="https://storage.googleapis.com/www-paredro-com/uploads/2015/08/dise%C3%B1adores-3.gif" width="450" height="330">
 
 ### Hi there !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 ![](https://visitor-badge.glitch.me/badge?page_id=guilhemcv)
