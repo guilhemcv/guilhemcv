@@ -4,7 +4,7 @@
 ### Hi there !&ensp;&ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 ![](https://visitor-badge.glitch.me/badge?page_id=guilhemcv)
 
-My name is Guilhem SEYVET and i am a Passionate Web Developer 🚀 from Nantes, France. <br><br>
+My name is Guilhem SEYVET and i am a Passionate Web Developer 🚀 &ensp; from Nantes, France. <br><br>
 After 8 years as a travel planner, i have decided to focus on my passion and learn web development. 
 I'm currently a student at Wild Code School, Nantes and I am specializing in Javascript / React.
 
