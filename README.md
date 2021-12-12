@@ -16,7 +16,7 @@ I'm currently a student at Wild Code School, Nantes and I am specializing in Jav
 <br><br>
 - 👨‍💻 All of my projects are available at [https://www.guilhem-seyvet.fr](https://www.guilhem-seyvet.fr)
 
-- 📫 How to reach me **guilhem.seyvet@hotmail.fr**
+- 📫 How to reach me **seyvet.guilhem@gmail.com**
 
 - 📄 My resume [https://bit.ly/3FuRy3U](https://bit.ly/3FuRy3U)
 
