@@ -20,11 +20,12 @@ I did the web developer training at Wild Code School, Nantes and I am now specia
 - 📫 How to reach me **seyvet.guilhem@gmail.com**
 
 - 📄 My resume [https://bit.ly/3FuRy3U](https://bit.ly/3FuRy3U)
-
-<br>
  
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,html,css,json,mysql,markdown)](https://github.com/Jurredr/github-widgetbox)
-
+ <br>
+ 
+ <p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+</p>
  
  <br>
  
