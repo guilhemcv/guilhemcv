@@ -13,7 +13,8 @@ I did the web developer training at Wild Code School, Nantes and I am now specia
 <br><br><br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-guilhem_seyvet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhem-seyvet/)](https://www.linkedin.com/in/guilhem-seyvet/)
-[![Gmail Badge](https://img.shields.io/badge/-seyvet.guilhem@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seyvet.guilhem@gmail.com)](mailto:seyvet.guilhem@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seyvet.guilhem@gmail.com) 
+
 
 <br><br>
 - 👨‍💻 All of my projects are available at [https://www.guilhem-seyvet.fr](https://www.guilhem-seyvet.fr)
