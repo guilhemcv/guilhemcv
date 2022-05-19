@@ -29,7 +29,7 @@ I did the web developer training at Wild Code School, Nantes and I am now specia
  ### My skills :
  
  <p align="left">
- https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+ [](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </p>
  
