@@ -1,25 +1,30 @@
 
 ![Header](./guilhemcv.png)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhem-seyvet/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seyvet.guilhem@gmail.com) 
+![](https://komarev.com/ghpvc/?username=guilhemcv&style=for-the-badge)
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0A1F2F&background=FFFFFF&center=true&vCenter=true&width=300&lines=Hello+World+!!;N%C7%90n+h%C7%8Eo+World+!!;Gunten+Tag+World+!!;Salve+World+!!;Hola+World+!!;Bonjour+World+!!)](https://git.io/typing-svg)
 
 
 
-⋅⋅* My name is Guilhem SEYVET and i am a Web Developer 🚀 from Nantes, France. <br>
-⋅⋅* After 8 years as a travel planner, i have decided to focus on my passion and learn web development. 
-⋅⋅* I did the web developer training at Wild Code School, Nantes and I am now specialized in Javascript, React and Node.
+- My name is Guilhem SEYVET and i am a Web Developer 🚀 from Nantes, France. <br>
+- After 8 years as a travel planner, i have decided to focus on my passion and learn web development. 
+- I did the web developer training at Wild Code School, Nantes and I am now specialized in Javascript, React and Node.
 
 
 <br>
 
-⋅⋅* 👨‍💻 All of my projects are available at [https://www.guilhem-seyvet.fr](https://www.guilhem-seyvet.fr)
-⋅⋅* 📫 How to reach me **seyvet.guilhem@gmail.com**
-⋅⋅* 📄 My resume [https://bit.ly/3FuRy3U](https://bit.ly/3FuRy3U)
+- 👨‍💻 All of my projects are available at [https://www.guilhem-seyvet.fr](https://www.guilhem-seyvet.fr)
+- 📄 My resume [https://bit.ly/3FuRy3U](https://bit.ly/3FuRy3U)
  
  <br>
+ 
+ ### Join me :
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhem-seyvet/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seyvet.guilhem@gmail.com) 
+ 
+ <br> 
  
  ### My skills :
  <p align="left">
@@ -35,7 +40,16 @@
 </p>
 
 
+ <br>
  
+ ### My stats :
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhemcv&theme=vue)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhemcv&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guilhemcv&theme=vue)
+
+
+
  
 
 
