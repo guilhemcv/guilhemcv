@@ -1,5 +1,7 @@
-
+<div>
 <img align="right" src="https://storage.googleapis.com/www-paredro-com/uploads/2015/08/dise%C3%B1adores-3.gif" width="430" height="350">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
 
 ### Hi there !&ensp;&ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 ![](https://visitor-badge.glitch.me/badge?page_id=guilhemcv)
