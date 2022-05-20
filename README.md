@@ -11,7 +11,7 @@
 - My name is Guilhem SEYVET and i am a Web Developer 🚀 from Nantes, France. <br>
 - After 8 years as a travel planner, i have decided to focus on my passion and learn web development. 
 - I did the web developer training at Wild Code School, Nantes and I am now specialized in Javascript, React and Node.
-- 👨‍💻 All of my projects are available here : [https://www.guilhem-seyvet.fr](https://www.guilhem-seyvet.fr)
+- All of my projects are available here 👨‍💻 : [https://www.guilhem-seyvet.fr](https://www.guilhem-seyvet.fr) 
  
  <br>
  
