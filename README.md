@@ -4,7 +4,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0A1F2F&background=FFFFFF&center=true&vCenter=true&width=300&lines=Hello+World+!!;N%C7%90n+h%C7%8Eo+World+!!;Gunten+Tag+World+!!;Salve+World+!!;Hola+World+!!;Bonjour+World+!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0A1F2F&background=FFFFFF&center=true&vCenter=true&width=300&lines=Hello+World+!!;N%C7%90n+h%C7%8Eo+World+!!;Gunten+Tag+World+!!;Salve+World+!!;Hola+World+!!;Bonjour+World+!!)]
 
 
 
@@ -15,8 +15,7 @@
 
 <br>
 
-- 👨‍💻 All of my projects are available at [https://www.guilhem-seyvet.fr](https://www.guilhem-seyvet.fr)
-- 📄 My resume [https://bit.ly/3FuRy3U](https://bit.ly/3FuRy3U)
+- 👨‍💻 All of my projects are available here : [https://www.guilhem-seyvet.fr](https://www.guilhem-seyvet.fr)
  
  <br>
  
