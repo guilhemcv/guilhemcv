@@ -4,7 +4,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0A1F2F&background=FFFFFF&center=true&vCenter=true&width=300&lines=Hello+World+!!;N%C7%90n+h%C7%8Eo+World+!!;Gunten+Tag+World+!!;Salve+World+!!;Hola+World+!!;Bonjour+World+!!)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0A1F2F&background=FFFFFF&center=true&vCenter=true&width=300&lines=Hello+World+!!;N%C7%90n+h%C7%8Eo+World+!!;Gunten+Tag+World+!!;Salve+World+!!;Hola+World+!!;Bonjour+World+!!)
 
 
 
